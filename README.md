@@ -1,0 +1,2 @@
+# Django-ToDO
+CRUD APP WITH DJANGO
